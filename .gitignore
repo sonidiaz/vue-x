@@ -1,0 +1,22 @@
+# vue-x
+.DS_Store
+proyecto-inicial/node_modules
+proyecto-inicial/dist
+
+# local env files
+proyecto-inicial/.env.local
+proyecto-inicial/.env.*.local
+
+# Log files
+proyecto-inicial/npm-debug.log*
+proyecto-inicial/yarn-debug.log*
+proyecto-inicial/yarn-error.log*
+
+# Editor directories and files
+proyecto-inicial/.idea
+proyecto-inicial/.vscode
+proyecto-inicial/*.suo
+proyecto-inicial/*.ntvs*
+proyecto-inicial/*.njsproj
+proyecto-inicial/*.sln
+proyecto-inicial/*.sw*
